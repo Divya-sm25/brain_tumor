@@ -1,0 +1,8 @@
+torch
+torchvision
+timm
+gradio
+opencv-python
+cryptography
+pillow
+numpy
